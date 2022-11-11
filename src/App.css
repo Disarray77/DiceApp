@@ -1,0 +1,25 @@
+.App {
+  text-align: center;
+  background-color: brown;
+}
+
+button{
+  background-color: transparent;
+  border: none;
+}
+
+header{
+  color: white;
+  font-size: 3em;
+}
+
+main{
+  display: flex;
+  justify-content: space-around;
+  align-items: center;
+  height: 100vh;
+}
+
+img{
+  width: 15vw;
+}
